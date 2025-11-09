@@ -14,6 +14,7 @@ It's inspired by vintage typewriters, powered by a Raspberry Pi 5, and held toge
 - My brain said: “We ball. Build a cyberdeck.”  
 
 I wanted something:
+
 ✅ Mechanical keyboard  
 ✅ Portable writing machine  
 ✅ Retro vibes  
@@ -38,6 +39,20 @@ I wanted something:
 ---
 
 ## 🖼️ Photos
+![Front view](Images/FRONT.jpeg)  
+*Front view of the cyberdeck*
+
+![Back view](Images/BACK.jpeg)  
+*Back / ports side*
+
+![Internals](Images/INTERNALS.jpeg)  
+*Internals: cables, a wireless mouse, batteries, a Raspberry Pi 5 (SBC), and a Pwnagotchi*
+
+![User POV](Images/POV.jpeg)  
+*User POV: device and keyboard*
+
+![Library test](Images/LIB-TEST.jpeg)  
+*Library / bench test*
 
 ---
 
